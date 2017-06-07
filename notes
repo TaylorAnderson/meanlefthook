@@ -1,0 +1,17 @@
+-platforms with empty space on both sides, not too many--grappler, not platformer
+-i dont want to design a bunch of levels.  i want to design mechanics.  keep it small.
+-the game should be about combos and moving about the space.  landing = losing combos
+    -this naturally means enemies should respawn, but they need some sort of system
+
+-no ceiling, thats boring.
+
+-enemies can just have spawners that spawn them in on a timer after they die, doesnt need to be clever
+-can kill enemies by jumping on head, grapple-stomping, or picking up and throwing
+-can have like just three areas with scores / max combos associated with each
+
+enemies:
+-slime, moves back and forth on platforms
+-fish, jumps out of water
+-birds, move diagonally, moves in lines, bounces off walls
+
+elements:
